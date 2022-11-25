@@ -12,7 +12,7 @@ const MainPage = () => {
   return (
     <main>
       <div className="container">
-        <h3>resume: <a href="link">download</a></h3>
+        <h3>resume: <a href="https://raw.githubusercontent.com/stenasd/resume/main/Sten_Henriksson_resume.pdf">download</a></h3>
         <h2>
           Roles
         </h2>
