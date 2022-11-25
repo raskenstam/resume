@@ -34,7 +34,7 @@ const MainPage = () => {
         <p>
           <b>Onlineklipp sep 2018 - sep 2019 </b>
           - Data engineer: Processed and Scraped large amounts of data using python
-          - Full Stack: Built from the ground up with small team of developers. Worked on backend,frontend and cloud.
+          - Full Stack: Built from the ground up with small team of developers. Worked on backend, frontend and cloud.
           Built on React Express Nodejs and MySQL
         </p>
         <p>
