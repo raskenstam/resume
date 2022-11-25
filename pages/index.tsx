@@ -21,12 +21,12 @@ const MainPage = () => {
           {" Full Stack: Have architected, developed, and shipped fullstack projects. Worked in small teams and followed tight deadlines."}
         </p>
         <p>
-          <b>Since 2021 </b> 
+          <b>Since 2021 </b>
           Web3 and blockchain: Freelanced on multiple web3 blockchains and profficent with rust and webassembly.
         </p>
         <p>
           <b>Since 2020</b>
-           {" Reverse engineer, created mods and hosted servers for various online games."}
+          {" Reverse engineer, created mods and hosted servers for various online games."}
         </p>
         <h2>
           Industry experiance
@@ -172,7 +172,7 @@ const MainPage = () => {
 
               .left-half > h3{
                 width: auto;
-                margin-bottom: -20px;
+                margin-bottom: -16px;
                 background-color: var(--boxBack);
                 border: 1px solid var(--text);
                 padding: 5px;
@@ -196,7 +196,7 @@ const MainPage = () => {
                   width: 100%;
                 }
                 .right-half{
-                  margin-top: 20px;
+                  margin-top: 16px;
                 }
                 p,h2{
                 width: 100%;
