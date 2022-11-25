@@ -47,9 +47,10 @@ const MainPage = () => {
         <h2> Projects</h2>
         <p>
           • <b>bookbock</b>: Web hosted Book library built on ipfs used in large private gaming community. <br></br>
-          • <b>Kevzter app</b>: Native android application for large streamer to manage community and giveaways.<br></br>
+          • <b>Kevzter app</b>: Native android application for large streamer to manage community and giveaways. 1000+ downloads<br></br>
           • <b>secretsloth</b>: Peer to peer and decentralized web3 casino<br></br>
-          • <b>secrettraders</b>: anonymous platform for trading virtual items<br></br>
+          • <b>secrettraders</b>: eer to peer and decentralized web3 casino. Sold the project and contract is still in use by over 500
+monthly<br></br>
           • <b>Various Social media automation</b>: Tools for handling and managing community and controlling large amount of
           accounts<br></br>
           • <b>3d party game servers</b>: Hosting,modding and upkeep on large 3d party servers for games<br></br>
