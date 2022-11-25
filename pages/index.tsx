@@ -29,7 +29,7 @@ const MainPage = () => {
           {" Reverse engineer, created mods and hosted servers for various online games."}
         </p>
         <h2>
-          Industry experiance
+          Industry Experience
         </h2>
         <p>
           <b>Onlineklipp sep 2018 - sep 2019 </b>
@@ -38,11 +38,11 @@ const MainPage = () => {
           Built on React Express Nodejs and MySQL
         </p>
         <p>
-          <b> Aug 2020 - Oct 2021</b>
+          <b> Skinfo Aug 2020 - Oct 2021</b>
           - Front end: Web design and web development used standard frontend technologies such as Javascript HTML CSS
           and React Native
           - Data handling and databases: Improved and optimize REST API for retail and widget integration. Worked
-          with Elastic, Mongodb, Javascript, MySql and Expres
+          with Elastic, Mongodb, Javascript, MySql and Express
         </p>
         <h2> Projects</h2>
         <p>
