@@ -29,11 +29,13 @@ const MainPage = () => {
           {" Reverse engineer, created mods and hosted servers for various online games."}
         </p>
         <h2>
-          Industry Experience
+          Git hub projects
         </h2>
         <p>
           <b>Onlineklipp sep 2018 - sep 2019 </b>
+          <br></br>
           - Data engineer: Processed and Scraped large amounts of data using python
+          <br></br>
           - Full Stack: Built from the ground up with small team of developers. Worked on backend, frontend and cloud.
           Built on React Express Nodejs and MySQL
         </p>
@@ -48,12 +50,12 @@ const MainPage = () => {
         <p>
           • <b>bookbock</b>: Web hosted Book library built on ipfs used in large private gaming community. <br></br>
           • <b>Kevzter app</b>: Native android application for large streamer to manage community and giveaways. 1000+ downloads<br></br>
-          • <b>secretsloth</b>: Peer to peer and decentralized web3 casino<br></br>
-          • <b>secrettraders</b>: eer to peer and decentralized web3 casino. Sold the project and contract is still in use by over 500
-monthly<br></br>
+          • <b>secretsloth</b>: Peer to peer and decentralized web3 casino old the project and contract is still in use by over 500
+          monthly<br></br>
+          • <b>secrettraders</b>: anonymous platform for trading virtual items Peaked at 5000 monthly users<br></br>
           • <b>Various Social media automation</b>: Tools for handling and managing community and controlling large amount of
           accounts<br></br>
-          • <b>3d party game servers</b>: Hosting,modding and upkeep on large 3d party servers for games<br></br>
+          • <b>3d party game servers</b>: Hosting, modding and upkeep on large 3d party servers for games<br></br>
           • <b>Telegram, Slack and Discord chat bots</b>: Chat bots for managing and providing various services to online
           communities
           <br></br>
@@ -68,19 +70,10 @@ monthly<br></br>
               Rust
             </h3>
             <h3>
-              Java
-            </h3>
-            <h3>
               Javscript
             </h3>
             <h3>
-              Kotlin
-            </h3>
-            <h3>
               SQL
-            </h3>
-            <h3>
-              C++
             </h3>
             <h3>
               Typescript
@@ -93,17 +86,12 @@ monthly<br></br>
         <div className="right-half">
           <h2>Technologies </h2>
           <div className="left-half">
-            <h3> Express </h3>
             <h3> React</h3>
-            <h3> Java</h3>
             <h3> Nodejs </h3>
-            <h3> Express </h3>
             <h3> Nextjs </h3>
             <h3> Kubernetes</h3>
             <h3> Docker </h3>
             <h3> AWS</h3>
-            <h3> Android Studio</h3>
-            <h3> Elastic  </h3>
             <h3> Playwright</h3>
           </div>
         </div>
